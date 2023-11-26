@@ -2,11 +2,11 @@ Ashfin**Enayet**
 
 [ashfin.enayet@gmail.com](mailto:ashfin.enayet@gmail.com) | [ashfin.me](http://ashfin.me) | [ ashfinenayet](https://github.com/ashfinenayet) | [ Ashfin Enayet](https://www.linkedin.com/in/Ashfin Enayet)
 
-##Education
+## Education
 
 **Virginia Commonwealth University** Richmond, VA BS iN MATHEMATICAL SCIENCES W/ CONCENTRATION IN STATISTICS Aug 2020 – May 2024
 
-##Skills
+## Skills
 
 **Programming Languages:** Python, R, Java, Javascript, SAS, JSX, SQL **AWS:** EC2, Glue, EMR, Lambda, Quickshift, RedShift
 
@@ -36,7 +36,7 @@ DATA DEVELOPER INTERN June 2023 – Present
 - Utilized and natural language processing (Spacy) in our approach.
 - Team was selected as co‑winner for the hackathon.
 
-##Projects
+## Projects
 
 **Discord Bot** Javascript
 - Developed and maintained the Discord bot for seamless server management and diverse task execution.
