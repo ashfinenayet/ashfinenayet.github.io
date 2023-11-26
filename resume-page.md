@@ -1,6 +1,6 @@
 Ashfin**Enayet**
 
-[ashfin.enayet@gmail.com](mailto:ashfin.enayet@gmail.com) | [ashfin.me](http://ashfin.me) | [ ashfinenayet](https://github.com/ashfinenayet) | [ Ashfin Enayet](https://www.linkedin.com/in/Ashfin Enayet)
+
 
 ## Education
 
