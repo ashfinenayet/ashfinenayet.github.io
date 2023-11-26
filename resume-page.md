@@ -1,12 +1,12 @@
 Ashfin**Enayet**
 
-8043007325 | [à ashfin.enayet@gmail.com](mailto:ashfin.enayet@gmail.com) | [ ashfin.me](http://ashfin.me) | [ ashfinenayet](https://github.com/ashfinenayet) | [ Ashfin Enayet](https://www.linkedin.com/in/Ashfin Enayet)
+[ashfin.enayet@gmail.com](mailto:ashfin.enayet@gmail.com) | [ashfin.me](http://ashfin.me) | [ ashfinenayet](https://github.com/ashfinenayet) | [ Ashfin Enayet](https://www.linkedin.com/in/Ashfin Enayet)
 
-**Education**
+##Education
 
 **Virginia Commonwealth University** Richmond, VA BS iN MATHEMATICAL SCIENCES W/ CONCENTRATION IN STATISTICS Aug 2020 – May 2024
 
-**Skills**
+##Skills
 
 **Programming Languages:** Python, R, Java, Javascript, SAS, JSX, SQL **AWS:** EC2, Glue, EMR, Lambda, Quickshift, RedShift
 
@@ -14,7 +14,7 @@ Ashfin**Enayet**
 
 **Project Management:** Jira
 
-**Work Experience**
+#**Work Experience**
 
 **Amica Mutual Insurance** Remote
 
@@ -36,26 +36,25 @@ DATA DEVELOPER INTERN June 2023 – Present
 - Utilized and natural language processing (Spacy) in our approach.
 - Team was selected as co‑winner for the hackathon.
 
-**Projects**
+##Projects
 
 **Discord Bot** Javascript
-
-- DEVELOPED AND MAiNTAiNED THE DiSCORD BOT FOR SEAMLESS SERVER MANAGEMENT AND DiVERSE TASK EXECUTiON.
-- IMPLEMENTED FEATURES FOR MUSiC PLAYBACK, NEWS RETRiEVAL, AND REDDiT LiNK SHARiNG WiTHiN THE DiSCORD BOT.
+- Developed and maintained the Discord bot for seamless server management and diverse task execution.
+- Implemented features for music playback, news retrieval, and Reddit link sharing within the Discord bot.
 
 **Youtube Sentiment and Emotion Analysis** Python
 
-- CCONDUCTED SENTIMENT AND EMOTIONAL ANALYSIS ON PRESIDENT OBAMA’S RUTGERS COMMENCEMENT SPEECH USING NLTK, BERT, AND NRCLEX.
+- Conducted sentiment and emotional analysis on President Obama's Rutgers commencement speech using NLTK, BERT, and NRCLEX.
 
 **Conservative NLP** Python
 
-- CURRENTLY WORKiNG ON AN LSTM THAT WiLL GENERATE A SENTENCE iN THE STYLE OF CONSERVATiVE PUNDiTS BASED ON A TOPiC.
-- UTiLiZED AMAZON SAGEMAKER AND S3 BUCKET TO TRAiN THE MODEL.
+- Currently working on an LSTM that will generate a sentence in the style of conservative pundits based on a topic.
+- Utilized Amazon SageMaker and S3 bucket to train the model.
 
 **Sentiment Analysis and Geocoding** R
 
-- DEVELOPED AN iNTERACTiVE MAP USiNG R, SHiNY, AND LEAFLET.
-- THE MAP EXTRACTS LOCATiON DATA FROM AP NEWS ARTiCLES AND CONDUCTS SENTiMENT ANALYSiS ON THE ARTiCLES.
-- THE RESULTS ARE ViSUALLY REPRESENTED ON THE MAP FOR EASY iNTERPRETATiON AND ANALYSiS.
+- Developed an interactive map using R, Shiny, and Leaflet.
+- The map extracts location data from AP news articles and conducts sentiment analysis on the articles.
+- The results are visually represented on the map for easy interpretation and analysis.
 
 NOVEMBER 15, 2023 ASHFiN ENAYET · RÉSUMÉ 1
