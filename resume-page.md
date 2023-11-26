@@ -4,7 +4,8 @@ Ashfin **Enayet**
 
 ## Education
 
-**Virginia Commonwealth University** Richmond, VA BS IN Mathematical Sciences with Concentration in Statistics Aug 2020 – May 2024
+**Virginia Commonwealth University** Richmond, VA 
+BS IN Mathematical Sciences with Concentration in Statistics Aug 2020 – May 2024
 
 ## Skills
 
