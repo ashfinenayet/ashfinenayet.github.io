@@ -8,7 +8,9 @@ Ashfin **Enayet**
 
 ## Skills
 
-**Programming Languages:** Python, R, Java, Javascript, SAS, JSX, SQL **AWS:** EC2, Glue, EMR, Lambda, Quickshift, RedShift
+**Programming Languages:** Python, R, Java, Javascript, SAS, JSX, SQL 
+
+**AWS:** EC2, Glue, EMR, Lambda, Quickshift, RedShift
 
 **Version Control:** Git
 
