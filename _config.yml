@@ -6,7 +6,7 @@ description: Personal Website
 # GitHub Pages settings
 remote_theme: pages-themes/cayman@v0.2.0 # If you're using a GitHub-hosted theme
 baseurl: "" # Leave this blank for the root of the repository
-url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+url: "https://ashfinenayet.github.io" # Replace with your GitHub Pages URL
 
 # Build settings
 markdown: kramdown
