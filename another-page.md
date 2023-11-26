@@ -1,8 +1,6 @@
 # About Me
 
-I am currently a senior at Virginia Commonwealth University majoring in mathematical sciences with a concentration in statistics. 
-I want to use this website to showcase myself and my professional interests. 
-I am currently interested in data science and data analytics. I have performed research on applying machine learning techniques cybersecurity problems and data engineering and pipelining. 
+I am a senior at Virginia Commonwealth University, pursuing a major in mathematical sciences with a concentration in statistics. The purpose of this website is to serve as a platform to showcase my professional interests. My current focus revolves around data science and data analytics. I have engaged in research related to the application of machine learning techniques in cybersecurity challenges, as well as data engineering and pipeline development.
 
 
 [Github](https://github.com/ashfinenayet)
