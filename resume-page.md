@@ -60,4 +60,6 @@ DATA DEVELOPER INTERN June 2023 – Present
 - The map extracts location data from AP news articles and conducts sentiment analysis on the articles.
 - The results are visually represented on the map for easy interpretation and analysis.
 
-NOVEMBER 15, 2023 ASHFiN ENAYET · RÉSUMÉ 1
+
+[back](./)
+
